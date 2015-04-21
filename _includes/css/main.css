@@ -444,9 +444,9 @@ footer .footer-below {
     transform: rotate(90deg);
 }
 
-skills a,
-skills a:hover,
-skills a:focus,
-skills a:active{
+.skills a,
+.skills a:hover,
+.skills a:focus,
+.skills a:active{
     color: #eee;
 }
