@@ -16,7 +16,7 @@ color:
 # Footer settings
 footer:
   copyright: Merchise Inc.
-  location: 'Havana, Cuba'
+  location: Location
   social: Around the Web
   credits: Credits
 
@@ -29,11 +29,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 
+  - line: Vedado, Havana 70100
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Merchise Inc.'
 
 # Build settings
 markdown: kramdown
