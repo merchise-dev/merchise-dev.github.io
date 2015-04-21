@@ -15,7 +15,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Merchise Inc.
+  copyright: Merchise
   location: Location
   social: Around the Web
   credits: Credits
@@ -33,7 +33,7 @@ address:
   - line: Vedado, Havana 70100
 
 # Credits content
-credits: 'Merchise Inc.'
+credits: 'Merchise'
 
 # Build settings
 markdown: kramdown
