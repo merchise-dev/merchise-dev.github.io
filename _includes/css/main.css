@@ -443,3 +443,10 @@ footer .footer-below {
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
 }
+
+skills a,
+skills a:hover,
+skills a:focus,
+skills a:active{
+    color: #eee;
+}
