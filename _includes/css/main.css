@@ -274,8 +274,7 @@ section.success {
 .btn-success:active,
 .btn-success.active {
     border: solid 2px #fff;
-    background-color: #{{ site.color.primary }};
-    background: #fff;
+    background: #{{ site.color.primary }};
 }
 
 .floating-label-form-group {
