@@ -269,6 +269,15 @@ section.success {
     background: #fff;
 }
 
+.btn-success:hover,
+.btn-success:focus,
+.btn-success:active,
+.btn-success.active {
+    border: solid 2px #fff;
+    background-color: #{{ site.color.primary }};
+    background: #fff;
+}
+
 .floating-label-form-group {
     position: relative;
     margin-bottom: 0;
