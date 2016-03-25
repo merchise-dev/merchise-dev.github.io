@@ -463,8 +463,8 @@ footer .footer-below {
 #mc_embed_signup{
   display: inline-block;
   vertical-align: middle;
-  margin-top: 20px;
-
+  margin-top: 2px;
+  margin-bottom: 12px;
 }
 
 #mc_embed_signup label{
