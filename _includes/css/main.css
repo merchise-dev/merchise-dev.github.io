@@ -458,3 +458,40 @@ footer .footer-below {
 .success a:active{
     color: #FFE500;
 }
+
+
+#mc_embed_signup{
+  display: inline-block;
+  vertical-align: middle;
+  margin-top: 2px;
+  margin-bottom: 12px;
+}
+
+#mc_embed_signup label{
+  color: #ffffff;
+}
+
+#mce-EMAIL, #mc-embedded-subscribe{
+  display: inline-block;
+  vertical-align: middle;
+  height: 40px;
+}
+
+#mce-EMAIL{
+  width: 320px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+#mc-embedded-subscribe{
+  position: relative;
+  left: -5px;
+  border: 0px;
+  background-image: url("../../img/submit-icon.png");
+  height: 40px;
+  width: 60px;
+  background-repeat: no-repeat;
+  background-color: #{{ site.color.primary }};
+  background-position: center;
+}
+
